@@ -1,8 +1,7 @@
 {
 	"Hard_skills":
-	"Codes_HTTP","GitBash","JSON,XML_scrutrure","API_test","DevTools"
-}
-{
+	["Codes_HTTP","GitBash","JSON,XML_scrutrure","API_test","DevTools"],
+
 	"soft_skills":
-	"self_learning","search_information","teamwork"
+	["self_learning","search_information","teamwork"],
 }
