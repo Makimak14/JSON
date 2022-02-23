@@ -1,9 +1,10 @@
 {
-  "Bag_report":"Everything doesn't work"
-}
-{
-  "Bag_report":"Everything works again"
-}
-{
-  "Bag_report":"Everything doesn't work again"
+  "Bag_report":
+["Everything doesn't work"],
+
+"Bag_report":
+["Everything works again"],
+
+  "Bag_report":
+["Everything doesn't work again"],
 }
