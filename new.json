@@ -1,8 +1,9 @@
+{"bag report":
 {
-	"Name":"Maki_Red",
-	"Age":32,
-	"Pet":"1_cat",
-	"Salary":"1k$"
+"name":"The Close button in the Customer form is not active",
+"steps":"Open the Main form, Click the New button",
+"expected result":"The Customer Form Is Closed",
+"actual result":"The close button is not active",
+"severity":"trivial"
 }
-
-
+}
