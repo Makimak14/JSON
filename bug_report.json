@@ -1,10 +1,9 @@
+{"bag report":
 {
-  "Bag_report":
-["Everything doesn't work"],
-
-"Bag_report":
-["Everything works again"],
-
-  "Bag_report":
-["Everything doesn't work again"],
+"name":"The Close button in the Customer form is not active",
+"steps":"Open the Main form, Click the New button",
+"expected result":"The Customer Form Is Closed",
+"actual result":"The close button is not active",
+"severity":"trivial"
+}
 }
